@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/.cxx/Debug/5g1f576l/x86_64",
+  "command": "/home/tnakkach/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --gcc-toolchain=/home/tnakkach/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/tnakkach/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Daudioopensles_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o -c /home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/src/main/cpp/NativeOpenSLES.cpp",
+  "file": "/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/src/main/cpp/NativeOpenSLES.cpp"
+},
+{
+  "directory": "/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/.cxx/Debug/5g1f576l/x86_64",
+  "command": "/home/tnakkach/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --gcc-toolchain=/home/tnakkach/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/tnakkach/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Daudioopensles_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/audioopensles.dir/native-lib.cpp.o -c /home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/src/main/cpp/native-lib.cpp"
+}
+]

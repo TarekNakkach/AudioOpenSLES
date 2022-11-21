@@ -1,0 +1,22 @@
+# ninja log v5
+9	1249	1668892571	CMakeFiles/audioopensles.dir/native-lib.cpp.o	876b65ffbc912c9a
+0	1479	1668892571	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	2085d51195276d85
+1479	1541	1668892571	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/arm64-v8a/libaudioopensles.so	efe9abf6dffdfbcb
+1	738	1668893879	CMakeFiles/audioopensles.dir/native-lib.cpp.o	876b65ffbc912c9a
+739	788	1668893879	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/arm64-v8a/libaudioopensles.so	efe9abf6dffdfbcb
+2	643	1668894663	CMakeFiles/audioopensles.dir/native-lib.cpp.o	876b65ffbc912c9a
+1	671	1668894663	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	2085d51195276d85
+671	700	1668894663	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/arm64-v8a/libaudioopensles.so	efe9abf6dffdfbcb
+1	564	1668896463	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	2085d51195276d85
+564	598	1668896463	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/arm64-v8a/libaudioopensles.so	efe9abf6dffdfbcb
+1	549	1668900323	CMakeFiles/audioopensles.dir/native-lib.cpp.o	876b65ffbc912c9a
+0	659	1668900323	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	2085d51195276d85
+659	691	1668900323	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/arm64-v8a/libaudioopensles.so	efe9abf6dffdfbcb
+1	1784	1669019477	CMakeFiles/audioopensles.dir/native-lib.cpp.o	876b65ffbc912c9a
+0	1840	1669019477	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	2085d51195276d85
+1840	3474	1669019479	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/arm64-v8a/libaudioopensles.so	efe9abf6dffdfbcb
+0	361	1669020655	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	2085d51195276d85
+361	379	1669020655	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/arm64-v8a/libaudioopensles.so	efe9abf6dffdfbcb
+1	480	1669020811	CMakeFiles/audioopensles.dir/native-lib.cpp.o	876b65ffbc912c9a
+1	523	1669020811	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	2085d51195276d85
+523	546	1669020811	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/arm64-v8a/libaudioopensles.so	efe9abf6dffdfbcb

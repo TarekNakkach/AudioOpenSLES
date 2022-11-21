@@ -1,0 +1,22 @@
+# ninja log v5
+1	737	1668892582	CMakeFiles/audioopensles.dir/native-lib.cpp.o	657aaaef2780f43a
+0	753	1668892582	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	7623c44db2d18cff
+753	784	1668892582	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/armeabi-v7a/libaudioopensles.so	dace4d7076e4892c
+1	718	1668893880	CMakeFiles/audioopensles.dir/native-lib.cpp.o	657aaaef2780f43a
+718	755	1668893880	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/armeabi-v7a/libaudioopensles.so	dace4d7076e4892c
+1	611	1668895228	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	7623c44db2d18cff
+15	722	1668895228	CMakeFiles/audioopensles.dir/native-lib.cpp.o	657aaaef2780f43a
+722	835	1668895228	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/armeabi-v7a/libaudioopensles.so	dace4d7076e4892c
+1	588	1668896464	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	7623c44db2d18cff
+588	620	1668896464	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/armeabi-v7a/libaudioopensles.so	dace4d7076e4892c
+1	653	1668900324	CMakeFiles/audioopensles.dir/native-lib.cpp.o	657aaaef2780f43a
+1	703	1668900324	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	7623c44db2d18cff
+703	758	1668900324	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/armeabi-v7a/libaudioopensles.so	dace4d7076e4892c
+1	601	1669019480	CMakeFiles/audioopensles.dir/native-lib.cpp.o	657aaaef2780f43a
+1	614	1669019480	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	7623c44db2d18cff
+614	866	1669019480	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/armeabi-v7a/libaudioopensles.so	dace4d7076e4892c
+1	355	1669020655	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	7623c44db2d18cff
+355	378	1669020655	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/armeabi-v7a/libaudioopensles.so	dace4d7076e4892c
+0	334	1669020811	CMakeFiles/audioopensles.dir/native-lib.cpp.o	657aaaef2780f43a
+0	336	1669020811	CMakeFiles/audioopensles.dir/NativeOpenSLES.cpp.o	7623c44db2d18cff
+336	362	1669020811	/home/tnakkach/AndroidStudioProjects/AudioOpenSLES/app/build/intermediates/cxx/Debug/5g1f576l/obj/armeabi-v7a/libaudioopensles.so	dace4d7076e4892c
